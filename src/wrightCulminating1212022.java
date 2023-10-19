@@ -15,11 +15,11 @@ import javax.swing.*;
 /*
  * Silas, Ryan X, Risto
  * Completed on January 27 2022
+ */
 
+ /*  **NOTE DESIGNED TO RUN IN A NETBEANS ENVIROMENT    */
 
- /***NOTE DESIGNED TO RUN IN A NETBEANS ENVIROMENT */
-
- This program provides a GUI which acts as a menu, from here the user can exit, access user manual which displays a guide in a new JFrame
+ /*This program provides a GUI which acts as a menu, from here the user can exit, access user manual which displays a guide in a new JFrame
  or play the game which instantiates a new JFrame and displays the map, from here the user can access availible Pokemon through the pokedex
  access their own pokemon or move their trainer object. Movement of the trainer object allows for encounters with enemy trainers which starts an attack sequence
  or the pokecentre which heals all the users pokemon
