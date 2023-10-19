@@ -1,0 +1,64 @@
+Charmander
+004
+39
+Fire
+Growl
+Inferno
+Ember
+Dragon Breath
+Squirtle
+007
+44
+Water
+Tackle
+Tail Whip
+Water Gun
+Hydro Pump
+Bulbasaur
+001
+45
+Grass, Poison
+Growl
+Tackle
+Vine Whip
+Growth
+Caterpie
+010
+45
+Bug
+String Shot
+Tackle
+Bug Bite
+Electroweb
+Skiddo
+672
+66
+Grass
+Growth
+Vine Whip
+Leech Seed
+Double Edge
+Gible
+443
+58
+Dragon, Ground
+Sand Tomb
+Bulldoze
+Dragon Breath
+Take Down
+Geodude
+074
+40
+Rock, Ground
+Tackle
+Rollout
+Bulldoze
+Earthquake
+Rayquaza
+384
+105
+Dragon, Flying
+Air Slash
+Crunch
+Hurricane
+Rest
