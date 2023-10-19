@@ -15,11 +15,9 @@ import javax.swing.*;
 /*
  * Silas, Ryan X, Risto
  * Completed on January 27 2022
- * Final Culminating assignment
 
- For the purpose of demonstrating all concepts learned throughout the course plus the ability
- to learn new concepts
 
+ /***NOTE DESIGNED TO RUN IN A NETBEANS ENVIROMENT */
 
  This program provides a GUI which acts as a menu, from here the user can exit, access user manual which displays a guide in a new JFrame
  or play the game which instantiates a new JFrame and displays the map, from here the user can access availible Pokemon through the pokedex
@@ -28,7 +26,6 @@ import javax.swing.*;
  */
 
 
- /***NOTE DESIGNED TO RUN IN A NETBEANS ENVIROMENT */
 /**
  *
  * @author siwri5851
