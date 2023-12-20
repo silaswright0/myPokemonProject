@@ -4,7 +4,7 @@
 /*
  * Silas, Risto, Ryan X
  * January 27 2022
- * final summitive
+ * 
 
  * Class plays classic theme music while user plays game
  */
@@ -13,7 +13,7 @@ import java.io.File;
 import javax.sound.sampled.AudioInputStream;
 import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;
-import javax.swing.JOptionPane;
+//import javax.swing.JOptionPane;
 /**
  *
  * @author Risto, Ryan and Silas

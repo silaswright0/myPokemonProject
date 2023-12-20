@@ -121,7 +121,7 @@ public class Pokedex {
     public boolean equals(Pokedex other){
         return this.name.equals(other.name)
                 && this.idNum == other.idNum
-                && this.maxHealth == maxHealth
+                && this.maxHealth == other.maxHealth
                 && this.ability1.equals(other.ability1)
                 && this.ability2.equals(other.ability2)
                 && this.ability3.equals(other.ability3)

@@ -16,7 +16,7 @@ public class Trainer {
     private int xPos;//x position to get their position on the map when they move
     private int yPos;//y position to get their position on the map when they move
     private String dialog;
-    private ArrayList<Pokemon> pokemon = new ArrayList();  
+    private ArrayList<Pokemon> pokemon = new ArrayList<Pokemon>();  
     
     /**
      * Default constructor set to what we input into the object
