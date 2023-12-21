@@ -8,8 +8,9 @@ Timeline: Project Completed- January 21st 2022 (my grade 12 year of high school)
           Minor refactoring- December 20th 2023 
 
 
-Usage:
+Usage: Pull the repository and run on an IDE of your choice that is capable of displaying a GUI.
 
+Version: Most recent edits were done using JDK 20.
 
 Credits: I collaborated with Risto Miettinen and Ryan Xayavong in the creation of this project. My main responsibilites included the abstracted pokemon class and its subclasses as well as the GUI.
 
